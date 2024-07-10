@@ -11,5 +11,8 @@
     "name": "Shkroba Daria",
     "url": "https://github.com/shkrobadasha"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

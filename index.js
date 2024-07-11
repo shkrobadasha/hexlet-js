@@ -1,4 +1,6 @@
 //console.log("Hello, Hexlet!");
-import _ from "lodash";
+import getLastItem from "./src/index.js";
 
-console.log(_.last(["one", "two"]));
+const arr = ["one", "two"];
+const lastItem = getLastItem(arr);
+console.log(lastItem);
